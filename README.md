@@ -2,4 +2,3 @@
 *Maxi Franchezka Adolfo*
 
 **LG ARROWSMITH**
-![alt text](image.jpg)
